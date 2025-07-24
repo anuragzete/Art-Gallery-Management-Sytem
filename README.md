@@ -6,7 +6,7 @@ The **Art Gallery Management System (AGMS)** is a PHP-based web application desi
 
 ## Live Demo
 
-[Visit My Portfolio](https://agms.infinityfreeapp.com/index.php)
+[Visit AGMS](https://agms.infinityfreeapp.com/index.php)
 
 ---
 
