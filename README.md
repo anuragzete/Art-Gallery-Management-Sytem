@@ -1,22 +1,20 @@
-# 🎨 Art Gallery Management System (AGMS)
+# Art Gallery Management System (AGMS)
 
 The **Art Gallery Management System (AGMS)** is a PHP-based web application designed to manage and display art pieces in an online gallery. It includes an admin panel for managing artworks, artists, and gallery information.
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
-### 1. 📥 Download the Project
+### 1. Download the Project
 - Download the project zip file and extract it.
 
-### 2. 📂 Move the Project Files
+### 2. Move the Project Files
 - Copy the extracted `agms` folder.
 - Paste it into the server's root directory:
     - For **XAMPP**: `xampp/htdocs`
-    - For **WAMP**: `wamp/www`
-    - For **LAMP**: `/var/www/html`
 
-### 3. ⚙️ Set Up the Database
+### 3. Set Up the Database
 1. Open **PHPMyAdmin** in your browser:  
    `http://localhost/phpmyadmin`
 2. Create a new database named:  
@@ -26,20 +24,20 @@ The **Art Gallery Management System (AGMS)** is a PHP-based web application desi
     - Select the `agmsdb.sql` file from the `SQL File` folder.
     - Click **Go** to import the database schema and data.
 
-### 4. 🛠️ Run the Application
+### 4. Run the Application
 - Open your browser and visit:  
   `http://localhost/agms`
 
 ---
 
-## 🔑 Admin Panel Credentials
+## Admin Panel Credentials
 
 - **Username:** `admin`
 - **Password:** `Test@123`
 
 ---
 
-## 📁 Project Directory Structure
+## Project Directory Structure
 ```
 /agms                     # Main project folder  
  ├── /admin               # Admin panel files  
@@ -62,32 +60,32 @@ The **Art Gallery Management System (AGMS)** is a PHP-based web application desi
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Backend:** PHP
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, JavaScript
-- **Server:** XAMPP/WAMP/LAMP
+- **Server:** XAMPP
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 - If you encounter errors:
-    - Ensure your **XAMPP/WAMP/LAMP** server is running.
+    - Ensure your **XAMPP** server is running.
     - Verify that the **database name** in your configuration file matches `agmsdb`.
     - Confirm that the correct **port** is being used (default: `80`).
 
 ---
 
-## 📧 Contact
+## Contact
 For any queries or support, feel free to reach out at:  
-📩 **[anuragzete27@outlook.com]**
+**[anuragzete27@outlook.com]**
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the **MIT License**. Feel free to modify and extend it.
 
 ---
 
-✅ Enjoy managing your Art Gallery! 🎨
+Enjoy managing your Art Gallery! 
 
