@@ -4,6 +4,12 @@ The **Art Gallery Management System (AGMS)** is a PHP-based web application desi
 
 ---
 
+## Live Demo
+
+[Visit My Portfolio](https://agms.infinityfreeapp.com/index.php)
+
+---
+
 ## How to Run the Project
 
 ### 1. Download the Project
@@ -21,7 +27,7 @@ The **Art Gallery Management System (AGMS)** is a PHP-based web application desi
    `agmsdb`
 3. Import the SQL file:
     - Go to the **Import** tab.
-    - Select the `agmsdb.sql` file from the `SQL File` folder.
+    - Select the `agmsdb.sql` file.
     - Click **Go** to import the database schema and data.
 
 ### 4. Run the Application
